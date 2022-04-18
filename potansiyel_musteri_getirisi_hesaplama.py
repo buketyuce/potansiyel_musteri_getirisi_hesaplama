@@ -1,7 +1,6 @@
 #Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
 
-#Persona.csv veri seti uluslararası bir oyun şirketinin sattığı ürünlerin fiyatlarını ve
-#bu ürünleri satın alan kullanıcıların bazı demografik bilgilerini barındırmaktadır.
+#Veri seti uluslararası bir oyun şirketinin sattığı ürünlerin fiyatlarını ve bu ürünleri satın alan kullanıcıların bazı demografik bilgilerini barındırmaktadır.
 
 import numpy as np
 import pandas as pd
