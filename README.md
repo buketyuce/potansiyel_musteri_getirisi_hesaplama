@@ -1,0 +1,1 @@
+# potansiyel_musteri_getirisi_hesaplama
